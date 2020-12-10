@@ -1,7 +1,7 @@
 defmodule Statix.Mixfile do
   use Mix.Project
 
-  @version "1.4.0"
+  @version "1.4.1-getthru"
   @source_url "https://github.com/lexmag/statix"
 
   def project() do
