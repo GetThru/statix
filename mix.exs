@@ -33,7 +33,8 @@ defmodule Statix.Mixfile do
     [
       maintainers: ["Aleksei Magusev", "Andrea Leopardi"],
       licenses: ["ISC"],
-      links: %{"GitHub" => @source_url}
+      links: %{"GitHub" => @source_url},
+      organization: :getthru
     ]
   end
 
